@@ -1,3 +1,5 @@
 Hello There!
 
-This is in the foo2 folder
+This is in the foo2 folder.
+
+Foo2 was here
