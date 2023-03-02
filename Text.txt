@@ -1,1 +1,3 @@
 Hello There!
+
+This is in the foo2 folder
