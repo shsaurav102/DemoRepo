@@ -3,3 +3,6 @@ Hello There!
 This is in the foo2 folder.
 
 Foo2 was here
+
+##Local development 
+1. created a new branch called new feature
